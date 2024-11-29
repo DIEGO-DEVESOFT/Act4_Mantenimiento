@@ -1,0 +1,28 @@
+1.Gestión de roles y permisos: 
+Como administrador de sistema, necesito la capacidad de asignar diferentes roles y permisos a los usuarios dentro del sistema. 
+Esto me permitirá gestionar el acceso a las distintas funcionalidades del sistema, 
+asegurando que cada persona tenga acceso solo a las herramientas necesarias para realizar su trabajo de manera eficiente y segura.
+
+2.Crear un usuario: 
+Como administrador, necesito poder crear nuevos usuarios en el sistema proporcionando información como nombre, correo electrónico, contraseña, y rol asignado. 
+Esto me permitirá incorporar nuevos empleados o usuarios al sistema, asegurando que tengan acceso adecuado según su rol en la empresa, 
+y poder empezar a gestionar sus permisos y actividades desde el primer momento.
+
+3.Generación de reportes de stock: 
+Como administrador de inventarios, necesito poder generar reportes detallados sobre el stock actual. 
+Esto me permitirá conocer en tiempo real la cantidad de productos disponibles en el almacén, facilitando la toma de decisiones
+sobre reabastecimientos y la planificación de futuras compras.
+
+4.Control de entradas de productos: 
+Como administrador de compras, necesito registrar las entradas de productos en el sistema cada vez que llegue un nuevo pedido. 
+Esto asegura que el inventario se actualice automáticamente con las cantidades correctas y facilita la gestión eficiente del flujo de productos en la empresa.
+
+5.Control de salidas de productos: 
+Como administrador de ventas, necesito registrar las salidas de productos cuando se realicen ventas. 
+Esto es fundamental para que el sistema ajuste el inventario de manera precisa, evitando discrepancias entre el stock real y el registrado, 
+y garantizando un control adecuado de las existencias.
+
+6.Visualización del historial de movimientos de stock: 
+Como administrador de operaciones, necesito poder consultar el historial completo de entradas y salidas de productos. 
+Esto me permitirá realizar auditorías detalladas, hacer un seguimiento más efectivo de los movimientos de inventario, 
+y detectar cualquier posible error o discrepancia en el registro de productos.
